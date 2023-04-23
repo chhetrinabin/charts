@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  flask-app-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-23T18:31:14.745721778Z"
+    description: A custom helm chart for a basic flaskapp
+    digest: 8644e1d7f525350c252ff7566c99ab22d5e24f902f6744590c81040c41b2a250
+    name: flask-app-helm
+    type: application
+    urls:
+    - flask-app-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-23T18:31:14.745214207Z"
